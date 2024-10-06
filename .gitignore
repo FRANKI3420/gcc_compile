@@ -1,0 +1,15 @@
+*.txt
+
+*.c
+
+a.out
+
+*.cpp
+
+*.bmp
+*.h
+*.gch
+*.zip
+*.exe
+*.o
+.vscode/*
